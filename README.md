@@ -1,4 +1,4 @@
-# Twitter-data-mining
+# Projects for IIIT Delhi
 This Repository contains two files
 ## **project1.ipynb**
 A small project on Twitter Data Mining
